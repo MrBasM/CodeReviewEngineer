@@ -1,4 +1,5 @@
-# CodeReviewEngineer - 🧠 Java Code Review AI (powered by Gemma 3)
+# CodeReviewEngineer - 🧠 Java Code Review AI 
+(powered by Gemma 3)
 
 An automated code review assistant for Java projects, powered by large language models (LLMs) like Google's Gemma 3.
 
